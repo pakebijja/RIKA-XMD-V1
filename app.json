@@ -6,7 +6,7 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {RIKA-XMD=QcAERKQT#lmtSW0EwdCk4r6wMSn3Qzl4ftIWUKQfkoWpFd2WrpdI}
       "description": "Put the session-id here.",
       "required": true
    }
